@@ -1,0 +1,2 @@
+# Banlists
+Banlist databases
